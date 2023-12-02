@@ -23,4 +23,4 @@ Features:
 Feedback and Issues: 
 If you find any issues or would like to provide feedback, open an issue in this repository or contact me directly.
 
-LinekdIn: https://www.linkedin.com/in/piyushnjain23/
+LinkedIn: https://www.linkedin.com/in/piyushnjain23/
